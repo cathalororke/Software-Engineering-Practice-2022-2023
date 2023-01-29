@@ -1,4 +1,4 @@
-# Software-Engineering-Practice-91807--2022-2023-
+# Software-Engineering-Practice-2022-2023-
 Software Engineering Practice
 
 Product Vision:
